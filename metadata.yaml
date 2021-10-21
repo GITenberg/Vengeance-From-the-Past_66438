@@ -1,5 +1,8 @@
 _repo: Vengeance-From-the-Past_66438
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66438-h/images/cover.jpg
 creator:
   author:
     agent_name: Krepps, Robert W.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '35674'
     url: http://www.gutenberg.org/2009/agents/35674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66438#Vengeance-From-the-Past
 gutenberg_issued: '2021-10-01'
 identifiers:
   gutenberg: '66438'
